@@ -1,0 +1,5 @@
+_env
+.DS_Store
+brackish.db
+.ipynb_checkpoints
+.profile.d

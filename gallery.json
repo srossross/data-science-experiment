@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "path": "sliders.py",
+            "description": "A basic demo that has sliders for controlling a plotted trigonometric function",
+            "thumb": "http://bokeh.pydata.org/static/sliders_t.png",
+            "type": "bokeh"
+        },
+        {
+            "path": "fourier_animated.py",
+            "description": "A demo animates the fourier transform",
+            "thumb": "http://bokeh.pydata.org/en/latest/_images/unemployment.png",
+            "type": "bokeh"
+        },
+        {
+            "path": "Bracker.ipynb",
+            "description": "A simple notebook",
+            "thumb": "http://nb.bianp.net/static/thumb_nb/295.png",
+            "type": "jupyter"
+        }
+    ]
+}
